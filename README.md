@@ -78,8 +78,5 @@ Content-Type: application/json
 }
 ```
 
-## GitHub 리포지토리
 
-* [https://github.com/your-github-username/mood-closet-api](https://github.com/your-github-username/mood-closet-api)
-
-© 2025 덕성 AI 서비스 팀
+© 2025 Mood Closet. All rights reserved.
