@@ -2,7 +2,7 @@
 
 ## 개요
 - **서비스 명**: [Mood Closet - 오늘의 옷 추천](https://dlwl224.github.io/mood-closet)
-- **설명**: 프론트엔드(https://dlwl224.github.io/mood-closet)에서 전달된 **이름**, **성별**, **오늘 기분**, **현재 날씨** 요청을 받아 Google Gemini API에 전달합니다.  
+- **설명**: 프론트엔드(https://dlwl224.github.io/mood-closet) 에서 전달된 **이름**, **성별**, **오늘 기분**, **현재 날씨** 요청을 받아 Google Gemini API에 전달합니다.  
   AI가 생성한 **오늘의 옷 추천** 결과를 JSON 형태로 반환합니다.
 
 ## 기술 스택
