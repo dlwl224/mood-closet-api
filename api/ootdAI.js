@@ -7,7 +7,7 @@ dotenv.config();
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 export default async function handler(req, res) {
-  // CORS 에러 해결을 위한 헤더 설정
+  
   const allowedOrigin="https://dlwl224.github.io"
   res.setHeader("Access-Control-Allow-Origin", allowedOrigin);
   res.setHeader("Access-Control-Allow-Origin", "");
